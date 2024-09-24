@@ -8,3 +8,5 @@ Le famous penne alla mer
 *mer
 *pasta
 *bugie
+*guanciale
+
