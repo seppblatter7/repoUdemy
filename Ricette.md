@@ -1,6 +1,4 @@
 #Ricettacolo
 
-*uova
-*cazzi
-*ali
-*trote
+*prima ricetta
+*risotto dio fungo
