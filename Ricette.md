@@ -1,6 +1,5 @@
 #Ricettacolo
 
-*uova
-*cazzi
-*ali
-*trote
+*Pasta col tonno
+*Penne alla carbonara
+
